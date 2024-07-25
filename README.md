@@ -6,3 +6,4 @@ Domain: Web Development
 Duration: June To July 2024
 
 Overview of the Project
+the project is social media platform
